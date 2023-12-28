@@ -1,0 +1,22 @@
+{
+  "name": "itprogernode",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorbanev1/itprogernode.git"
+  },
+  "author": "gorb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gorbanev1/itprogernode/issues"
+  },
+  "homepage": "https://github.com/gorbanev1/itprogernode#readme",
+  "dependencies": {
+    "currency-converter-lt": "^2.0.1"
+  }
+}
